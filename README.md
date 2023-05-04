@@ -1,3 +1,3 @@
 # awari-01
 
-Projeto de exemplo.
+Projeto de exemplo Git.
